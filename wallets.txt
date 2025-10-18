@@ -1,0 +1,116 @@
+👾 Address: 0x18a70bCCf998eaDe49a13415806A4F5876c2d980
+💬 Mnemonic: sword news radar injury six copy aerobic absent peanut hint crew sure reject story agree slide invite coil chair upset mask old wash butter
+🔑 Private key: 0xcacf6f4293e8c4e4234e503f65740feb021f0311ac97030f09f55cd33904827c
+🤑 ETH Balance: $0
+🤑 BNB Balance: undefined
+🤑 MATIC Balance: undefined
+
+👾 Address: 0xE2eb456a6Bd1c6CEC616A17Ec66f7a49CB355bcC
+💬 Mnemonic: lumber agree primary bright okay heart dutch lawsuit sun planet witness bone
+🔑 Private key: 0x36ba38053c3c77dc4805cbd4864b19d5471bbe669a6212bc314aa118eac5bbdf
+🤑 ETH Balance: $0
+🤑 BNB Balance: undefined
+🤑 MATIC Balance: undefined
+
+👾 Address: 0x8747cC29a8fce37f2E1c84b822E1fA87D648eC5F
+💬 Mnemonic: thumb asset chimney column energy soul home rail reward crush brain tone
+🔑 Private key: 0x366ebe3d37bb23d2a5a3a2285d6f4293b2f3d21eb96dcac907bc587734d9477d
+🤑 ETH Balance: $0
+🤑 BNB Balance: undefined
+🤑 MATIC Balance: undefined
+
+👾 Address: 0xf1d1D7fdaF4417574f0fb63681b72e6b03683A02
+💬 Mnemonic: pill net people walk high april screen dignity input congress priority surprise divert denial survey thank slender hurdle oil return oblige teach process trash
+🔑 Private key: 0x0bf140d04e43a44365742043f8048bb797d0f7da3bfab8b230a4748d446638c8
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0x9F6D447ea70aA9D4e9fDa6b0a8Dad9DEF5348Fa2
+💬 Mnemonic: solution phrase oil unhappy glue occur cement prison finger arch maple elegant
+🔑 Private key: 0x9e52912f9a3ddc4096deaf860bbe38b683ef92f111c9d0dc78db4b3ef1ebf7e3
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0xe72414260878C5af3101410FED6A626ed773bb0D
+💬 Mnemonic: coyote oak scissors balcony finger dad news race garage depth aunt hello
+🔑 Private key: 0x924bd3d546d1bd73b0cd7f9f68c3c20001f7d3073964748143d216f2f3423f66
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0x7362cE95ae97F06F66982F9572fE3E140dfB6321
+💬 Mnemonic: upset stock turn elder ivory loyal popular track force stuff recall bleak tank devote cart energy glance artefact such chicken seed strategy frequent oyster
+🔑 Private key: 0xf9b71eeffb4d0d8a6d8a86c507d303a88c18efe9b81a0f3afa0d3de97dce01a6
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0xC26e42c03c4c9Af6bc443DA58cF52f4dc1028fa0
+💬 Mnemonic: daring ring joy slot jar emerge story machine hockey sentence ball imitate
+🔑 Private key: 0x2edecefdde70345e6afb0d37d2028bf8fcc83588197b636d8fe4853032ac7b40
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0x9C67d331D0Be27C8178FC2d78f23D7944922F40E
+💬 Mnemonic: topple increase motion index patient oval impact aspect immune real come purse
+🔑 Private key: 0x7ab9919f67063e6e5c9b414e84e4f0f0ca183a164058e66f7db46d1b1d19e75d
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0xC593Ee5Dd6364aed8Ddff2571f4e5995937312a7
+💬 Mnemonic: economy lesson side margin gossip mask diary valid barely scatter include also
+🔑 Private key: 0x56771f291d900188a875f4b707e08e3958d30a82b462916c3793d526a759b359
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0x1D455EB0edb8Dd5C3Ea0b2b2e720ca544921897E
+💬 Mnemonic: snack couple shrug valid unable release kite tattoo torch element butter rain cupboard gas mother toddler drastic tail analyst almost length grid refuse lounge
+🔑 Private key: 0xf32972a8a80817cb7f5c03eebcb61d993e7e7391013185d8d69b8d4feb4188bb
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0xE58DE87c206BedE1929F2e9dC8000BCC68513E97
+💬 Mnemonic: theory trash ancient speak tell couch gift tide general bag napkin smooth
+🔑 Private key: 0xb72a935bc49fa9b0d88eef1105a46fbda186cbeb4b9977d5d1f6c79b35162b58
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0x95F57eA2Db7971c10abA5110a3559df41bAC65CB
+💬 Mnemonic: push banana swamp swift tortoise novel soon item plate master famous analyst citizen add hurdle avoid lady hello daughter equal speed grace round miss
+🔑 Private key: 0x6fba7ba347460912e7056a2aca3f03c648d442dcb7d44b3f6967bb3b0459ec32
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0xe235582653674cE9B027461875C3c761DF144b07
+💬 Mnemonic: soap giraffe soap surge galaxy ostrich bullet super end myth canal wool silk demise admit car bicycle carry print street layer merge lady perfect
+🔑 Private key: 0x484bc040e91385d98a97e8ae48522bc44bc3c3f65d9a3b16bad15a22272d9c79
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0x38E0A62EAD190B9d0a7adde5fA2872fc383d30dc
+💬 Mnemonic: pony frog broom wish equal range accident lady mercy sail between render
+🔑 Private key: 0x93a901527712516a6438ad4c1ca75e2e75c19db6f3f563b0fd6e267d6210f843
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0xB7F1c0169c58386324d95F4836666B6f74c2fc7D
+💬 Mnemonic: mandate pull pig unveil blur mass square cover empty copy spirit language
+🔑 Private key: 0xfacb098d9b8fccb338d90fb84363c2cb679c0aeb8e9912123411d00e1bc1201d
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0x0cC215A786d760369BfE15431a06fF0565c3b0Ed
+💬 Mnemonic: urge future toe glass disorder prepare clutch level panther girl build shoulder remain stock snack transfer cool inmate park cry debate hobby drop error
+🔑 Private key: 0x2b49136998a2d04203099072bbbc68fc083e6a0ac8d8889856ce038cb64976bd
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0xD3B7F80bd0927414d0d3C1e30575c63d4d8C48Be
+💬 Mnemonic: arrange bachelor song barrel note coach income gasp prefer unusual fringe ring cost clarify violin prosper best cheese rely carpet program bottom chair about
+🔑 Private key: 0xae73c9a156ee0ab2607e4f421db00db3d7c4f57fc22c4e1e909b0f08a050f98a
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0x1b6FD6396Ce5fB4C717B2a1F7c31a6f2C3af55f3
+💬 Mnemonic: settle ride layer twist flavor sauce speak snack strategy grape chest fine scan method liberty swear will shy frown enact obey wire state illness
+🔑 Private key: 0x7d41d0b3ca0805a464ed8c9f37d388171851956919c0ea453f86d600ff400193
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0xbE92DB49301a41dd92Ec51c0b84FCd2691Ce1943
+💬 Mnemonic: flee sight salmon merit behind enroll crack crime clutch liberty olympic resemble front clerk flock dismiss gravity sign cute head please leader motion quantum
+🔑 Private key: 0x22e07a8778b85e9efe756f1acd4e9ceb4a7ad225a55875764c16bc066a2705df
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0xFEc1aD737BA8cf4D695056e03e7Fb29742393E12
+💬 Mnemonic: chunk scissors hungry flock helmet allow emerge casual exact bind slice build
+🔑 Private key: 0x3ba66b700af2b4eb4a2fd2f504f6e38da033c51d51bb759445361fdc2f219eff
+🤑 ETH Multichain Balance: $0
+
+👾 Address: 0x4e136d615c48618C2BF807A2A1a04DdAb27d7587
+💬 Mnemonic: flavor slam absorb stock volcano moon expire among home broccoli slogan taxi clutch merit chaos gallery science home explain meat night copy inmate trophy
+🔑 Private key: 0x94139379f5236c7ae9dd3cf4a12de1aa5646fab9cb2bdcec38c0e19dbc34b970
+🤑 ETH Multichain Balance: $0
+

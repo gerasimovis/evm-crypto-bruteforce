@@ -50,17 +50,23 @@ function generateSeedPhrase() {
 /**
  * Scrapes the Blockscan website to retrieve the balance of a given address.
  * @param {string} address - The Ethereum address to scrape the balance for.
- * @param {string} type - The type of address to scrape (e.g. 'eth
+ * @param {string} explorer - The type of address to scrape (e.g. 'eth
  * @returns {Promise<string|boolean>} - A promise that resolves to the balance as a string, or false if an error occurs.
  */
-function scrapeBlockscan(address, type = 'etherscan') {
-  const url = `https://${type}.com/address/${address}`
+function scrapeBlockscan(address, explorer) {
+  const url = `https://${explorer}/address/${address}`
   return axios.get(url)
     .then(response => {
       const $ = cheerio.load(response.data)
-      const balance = $('#ContentPlaceHolder1_divSummary > div.row.g-3.mb-4 > div:nth-child(1) > div > div > div:nth-child(3)').text()
-      const balanceResult = balance.split('\n')[4]
-      return balanceResult !== undefined ? balanceResult : '$0.00'
+      const balance = $('#multichain-button')
+        .text()
+        .split('\n')
+        .at(1)
+        .trim()
+        .split(' ')
+        .at(0)
+      console.log({balance})
+      return balance ?? '$0.00'
     })
     .catch(async () => {
       await delay(10000)
@@ -79,20 +85,16 @@ async function runBruteforce() {
     try {
       const resSeedPhrase = generateSeedPhrase()
       const resEtherWallet = ethers.Wallet.fromPhrase(resSeedPhrase)
-      const [resEthBalance, resBnbBalance, resMaticBalance] = await Promise.all([
-        scrapeBlockscan(resEtherWallet.address, 'etherscan'),
-        scrapeBlockscan(resEtherWallet.address, 'bscscan'),
-        scrapeBlockscan(resEtherWallet.address, 'polygonscan')
+      const [resEthBalance] = await Promise.all([
+        scrapeBlockscan(resEtherWallet.address, 'etherscan.io'),
       ])
       logger(`👾 Address: ${resEtherWallet.address}`, 'info')
       logger(`💬 Mnemonic: ${resEtherWallet.mnemonic.phrase}`, 'info')
       logger(`🔑 Private key: ${resEtherWallet.privateKey}`, 'info')
-      logger(`🤑 ETH Balance: ${resEthBalance}`, 'info')
-      logger(`🤑 BNB Balance: ${resBnbBalance}`, 'info')
-      logger(`🤑 MATIC Balance: ${resMaticBalance}`, 'info')
-      if (resEthBalance !== '$0.00' || resBnbBalance !== '$0.00' || resMaticBalance !== '$0.00') {
+      logger(`🤑 ETH Multichain Balance: ${resEthBalance}`, 'info')
+      if (resEthBalance !== '$0') {
         logger(`🎉 Found a wallet with a non-zero balance!`, 'success')
-        await fs.appendFileSync('wallets.txt', `👾 Address: ${resEtherWallet.address}\n💬 Mnemonic: ${resEtherWallet.mnemonic.phrase}\n🔑 Private key: ${resEtherWallet.privateKey}\n🤑 ETH Balance: ${resEthBalance}\n🤑 BNB Balance: ${resBnbBalance}\n🤑 MATIC Balance: ${resMaticBalance}\n\n`)
+        await fs.appendFileSync('wallets.txt', `👾 Address: ${resEtherWallet.address}\n💬 Mnemonic: ${resEtherWallet.mnemonic.phrase}\n🔑 Private key: ${resEtherWallet.privateKey}\n🤑 ETH Multichain Balance: ${resEthBalance}\n\n`)
       } else {
         logger(`👎 No luck this time.`, 'warning')
       }
